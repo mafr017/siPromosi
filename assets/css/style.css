@@ -1,0 +1,23 @@
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: #efe9cc;
+}
+
+#about {
+  padding: 5rem 1rem;
+  background-color: #eadea6;
+}
+
+#product {
+  padding: 5rem 1rem;
+  background-color: #efe9cc;
+}
+
+#mitra {
+  padding: 5rem 1rem;
+  background-color: #eadea6;
+}
+
+#imgmitra {
+  width: 700px;
+}
